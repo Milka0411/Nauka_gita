@@ -2,3 +2,4 @@
 
 Lubie VIMA
 :)
+zmiana 
