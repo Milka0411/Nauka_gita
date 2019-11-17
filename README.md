@@ -1,3 +1,1 @@
 # Nauka gita
-
-#lubie gita
