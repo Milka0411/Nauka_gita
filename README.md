@@ -2,4 +2,5 @@
 
 Lubie VIMA
 :)
-zmiana 
+zmiana
+kolejna zmiana
