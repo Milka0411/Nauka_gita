@@ -1,3 +1,4 @@
 # Nauka gita
 
 Lubie VIMA
+:)
